@@ -1,5 +1,5 @@
 const express = require('express')
-const cool = require('cool-ascii-faces')
+const cool = require('cool-ascii-faces') // Importing the package
 const path = require('path')
 const PORT = process.env.PORT || 5000
 
